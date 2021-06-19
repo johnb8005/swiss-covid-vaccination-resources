@@ -7,3 +7,4 @@ This repo aims to collect information about the covid vaccination certificate in
 * [Coronavirus: COVID certificate - system integrators](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/covid-zertifikat.html#1476331840)
 * [Android app](https://github.com/admin-ch/CovidCertificate-SDK-Android)
 * [sdk request to create certificte](https://github.com/admin-ch/CovidCertificate-Api-Scripts/blob/master/javascript/request.js)
+* [swiss government pki](https://www.bit.admin.ch/bit/fr/home/subsites/generalites-concernant-la-swiss-government-pki.html)
